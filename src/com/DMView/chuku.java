@@ -57,7 +57,7 @@ public class chuku extends javax.swing.JInternalFrame {
 
 		jb_add.setIcon(new javax.swing.ImageIcon(
 				"D:\\Myelipse\\images4\\add.png")); // NOI18N
-		jb_add.setText("出库。。。");
+		jb_add.setText("出库");
 		jb_add.addActionListener(new java.awt.event.ActionListener() {
 			public void actionPerformed(java.awt.event.ActionEvent evt) {
 				DChuku.jb_addActionPerformed(evt);
@@ -66,7 +66,7 @@ public class chuku extends javax.swing.JInternalFrame {
 
 		jb_reset.setIcon(new javax.swing.ImageIcon(
 				"D:\\Myelipse\\images4\\reset.png")); // NOI18N
-		jb_reset.setText("重置。。。。");
+		jb_reset.setText("重置");
 		jb_reset.addActionListener(new java.awt.event.ActionListener() {
 			public void actionPerformed(java.awt.event.ActionEvent evt) {
 				DChuku.jb_resetActionPerformed(evt);
